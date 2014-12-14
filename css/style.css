@@ -1,11 +1,10 @@
 body {
   font: 16px/1.4 Helvetica, Arial, sans-serif;
-  /*background-color: #D04A41;*/
   text-align: center;
+  font-weight: bold;
 }
 
 .downsized {
-  /*height: 200px;*/
   width: 80%;
   margin: 0 auto;
 }
@@ -40,31 +39,3 @@ img {
 /*==================================*/
 /* Write Your Styles below!!! */
 /*==================================*/
-
-/*img {
-  position: relative;
-}
-
-.breadbasket {
-  bottom: 72px;
-  left: 191px;
-}
-
-.butterflies {
-  bottom: 174px;
-  left: 181px;
-}
-
-.wishbone {
-  bottom: 294px;
-  left: 96px;
-}
-
-.heart {
-  bottom: 291px;
-  left: 112px;
-}*/
-
-.heart {
-
-}

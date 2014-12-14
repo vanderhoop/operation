@@ -1,9 +1,10 @@
 ## Operation
 
-Operation requires a great deal of dexterity.
+[Operation!](http://en.wikipedia.org/wiki/Operation_%28game%29) requires players to carefully place missing organs is a game that requires great 
 
-#### Read
-__IMPORTANT:__ 
+#### Directions
+
+1. 
 
 There are four possible values By default, all the position of 
 
