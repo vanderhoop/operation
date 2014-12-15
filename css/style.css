@@ -16,7 +16,6 @@ body {
 .operation {
   margin: 0 auto;
   display: inline-block;
-  height: 400px;
   width: 398px;
   vertical-align: top;
 }
@@ -24,7 +23,6 @@ body {
 .gutter {
   display: inline-block;
   width: 5%;
-  height: 400px;
 }
 
 .main {
